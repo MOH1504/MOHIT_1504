@@ -1,0 +1,2 @@
+Exception handling is a programming construct in Python that allows you to gracefully 
+   handle errors that may occur during program execution. When an error occurs in Python, 

@@ -1,0 +1,27 @@
+                       * PYTHON_LANGUAGE *
+
+
+-> Python is a widely used general purpose,high-level programming
+   language,it was initially designed by "GUIDO VAN ROSSUM"in 
+   1991 and developed by python software foundation.
+
+-> It was mainly developed for emphasis on code readability and
+   its syntax allows programmers to express concepts in fewer
+   lines of code.
+
+-> Python is a programming language that lets you work quickly
+   and integrate systems more efficiently.
+
+-> Python is an interpreted,object-oriented,high-level programming
+   language with dynamic semantics.
+
+-> Its high-level built in data-structures combined with dynamic
+   typing and dynamic binding,make it very attractive for 
+   Rapid Application Development.
+
+-> Python supports modules and packages,which encourages program
+   modularity and code reuse.
+
+-> The python interpreter and the extensive standard library are
+   available in source or binary form with out charge for all
+   major platforms & can be freely distributed.  

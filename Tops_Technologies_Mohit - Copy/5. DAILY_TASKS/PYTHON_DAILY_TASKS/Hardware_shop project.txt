@@ -1,0 +1,23 @@
+Hardware shop :
+
+
+->        
+                         select category :
+                                    
+                               -> Laptop
+                               -> Mobile
+
+                          Laptop :
+                    
+                               -> Samsung
+                               -> Hp
+                               -> Dell
+
+
+                          Mobile :
+
+                               -> Iphone
+                               -> Samsung
+                               -> Vivo
+
+         function with parameter return total amount :

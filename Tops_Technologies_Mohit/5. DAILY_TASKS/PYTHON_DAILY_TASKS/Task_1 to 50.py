@@ -1,0 +1,6 @@
+for i in range(1,51):
+    print(i,end=" ")
+    if(i%10==0):
+        print("\n")
+
+        

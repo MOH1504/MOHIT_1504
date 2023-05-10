@@ -1,0 +1,38 @@
+                              Why we used python?
+
+
+  # Desinged to be easy to learn and master :
+
+     - clean, clear syntax.
+     - Very few keywords.
+
+  # Highly portable :
+
+   - Runs almost anywhere-high end servers and workstations,down to windows CE.
+   - uses machine independent byte-code.
+
+  # Extensible :
+
+   - Designed to be extensible using C/C++,
+     Allowing access to many external libraries.
+
+  # clean syntax plus high-level data types :
+
+    - Leads to fast coding (1st language in universities)
+
+  # Uses white-space to delimit blocks :
+  
+  # Variables do not need declaration :
+
+  # Reduced development time :
+  
+    - Code in 2*10X shorter than C,C++,JAVA.
+  
+  # Less training :
+    
+    - Language is very easy to learn.
+
+  
+  
+ 
+  

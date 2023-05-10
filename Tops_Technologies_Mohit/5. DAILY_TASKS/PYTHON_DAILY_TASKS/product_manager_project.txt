@@ -1,0 +1,84 @@
+		press 1 for product manager 
+		press 2 for customer 
+
+
+Enter your choice :  1
+
+Enter your product :  Apple 
+Enter qty  (kg)   : 5
+price per (kg)   :  80
+
+product : { 
+	"Apple" :
+		{
+		"qty" : 5
+		"price" : 80
+	}
+}
+do you want to enter more product : y 
+
+Enter your product :  Mango 
+Enter qty  (kg)   : 3
+price per (kg)   :  50
+
+product : { 
+	"Apple" :
+		{
+		"qty" : 5,
+		"price" : 80,
+	},
+	"Mango":
+	{
+		"qty" : 3,
+		"price": 50
+	}
+}
+
+
+do you want to enter more product : y 
+
+Enter your product :  Apple
+Enter qty  (kg)   : 5
+price per (kg)   :  90
+
+product : { 
+	"Apple" :
+		{
+		"qty" : 10,
+		"price" : 90,
+	},
+	"Mango":
+	{
+		"qty" : 3,
+		"price": 50
+	}
+}
+
+do you want to enter more product : n 
+
+Customer : 
+
+		Apple   
+		Mango 
+
+
+Enter product : Apple 
+
+price : (1kg)  : 90 Rs. 
+
+Enter qty do you want : 5
+
+Total price : 5 * 90  = XXXX RS 
+
+do you want to purchase more products : y 
+
+Enter product : Apple 
+
+Enter qty : 9
+
+stock not available 
+
+
+
+
+

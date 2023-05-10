@@ -1,0 +1,14 @@
+module :
+    
+
+
+logic -> product
+
+
+        laptop
+ 
+           ->    price * qty
+
+        mobile 
+
+           -> price * qty
